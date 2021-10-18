@@ -19,7 +19,7 @@ console.log(notasBaixas2);
 
 
 const notasBaixas3 = notas.filter(nota => nota < 7)
-console.log(notasBaixas3);
+console.log(notasBaixas3);  
 
 
 
