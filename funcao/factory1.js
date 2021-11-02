@@ -1,9 +1,9 @@
-const prod1 ={
-    nome: "...",
-    preco: '...'
+//factory simples
+function criarPessoa(){
+    return {
+        nome: 'Ana',
+        sobrenome: 'Silva'
+    }
 }
 
-const prod2 ={
-    nome: "...",
-    preco: 1234
-}
+console.log(criarPessoa());
