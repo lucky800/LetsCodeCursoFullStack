@@ -14,4 +14,3 @@ Object.defineProperties(pessoa, 'dataNascimento', {
     writable: false,
     value: '01/01/2019'
 })
-pessoa.
